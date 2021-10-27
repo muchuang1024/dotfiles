@@ -18,3 +18,6 @@ alias ll="ls -l"
 alias subl='open -a "Sublime Text"'
 
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home
+
+# 重启一下终端光标移动速度会快很多 
+defaults write NSGlobalDomain KeyRepeat -int 1 
