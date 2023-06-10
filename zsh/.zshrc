@@ -99,3 +99,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source ~/.bash_profile
 
+export PATH="/usr/local/opt/redis@4.0/bin:$PATH"
+export PATH="/usr/local/software/apache-ant-1.10.7/bin:$PATH"

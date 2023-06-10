@@ -1,0 +1,6 @@
+alias gst='git status'
+alias gpo='git push origin'
+alias glo='git pull origin'
+alias gcm='git commit -v -m'
+alias grs='git reset HEAD~'
+
